@@ -25,3 +25,7 @@ Using the parameters you configure you have the ability to define where and how 
 
 I have this script pulling from the source in an Azure FileShare, you may have a different source. Please be sure to add your source
 in order to copy the script over from the central script store.
+
+## Disclaimer
+
+This script is provided to you as is. I take no responsibility for any issues that this may cause. This will not prevent a ransomeware outbreak, however, it will greatly assist in ensuring your servers are protected against any known variants. Please use at your own risk.
